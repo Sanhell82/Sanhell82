@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Hellen 👋</h1>
 
 <p align="center">
-  Applied Computer Science student at PXL 🇧🇪<br>
-  Heading towards <b>AI & Data Engineering</b> 🤖📊
+  Applied Computer Science student at PXL, Belgium<br>
+  Heading towards <b>AI & Data Engineering</b>
 </p>
 
 ---
@@ -17,12 +17,9 @@ Now I'm in my second year, and I'm learning that it's possible.
   <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,docker,linux,git" />
 </p>
 
-- Java Advanced & Spring Boot (REST APIs, validation)
+- Java Advanced & Spring Boot
 - .NET Advanced
 - DevOps, Linux containers and cloud
-
-## 📂 Projects
-- 🍰 **BethanysPieshop**: C# web application
 
 ## 🎯 Goals
 - Choose the AI & Data Engineering track and earn my degree
